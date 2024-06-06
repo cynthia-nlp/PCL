@@ -1,0 +1,1037 @@
+{
+  "P6": {
+    "label": "head of government",
+    "description": "head of the executive power of this town, city, municipality, state, country, or other governmental body",
+    "synonym": [
+      "president",
+      "governor",
+      "mayor",
+      "leader",
+      "premier",
+      "-----",
+      "chairman",
+      "chancellor",
+      "minister"
+    ]
+  },
+  "P17": {
+    "label": "country",
+    "description": "sovereign state of this item; don't use on humans",
+    "synonym": [
+      "country",
+      "capital",
+      "in",
+      "home",
+      "location",
+      "state",
+      "-----",
+      "territory",
+      "homeland",
+      "land",
+      "nation"
+    ]
+  },
+  "P22": {
+    "label": "father",
+    "description": "male parent of the subject. For stepfather, use \"stepparent\" (P3448)",
+    "synonym": [
+      "father",
+      "dad",
+      "daddy",
+      "son *!",
+      "child of, daughter of, has father, is child of, is daughter of, is son of, parent, son of"
+    ]
+  },
+  "P25": {
+    "label": "mother",
+    "description": "female parent of the subject. For stepmother, use \"stepparent\" (P3448)",
+    "synonym": [
+      "mother",
+      "mom",
+      "mum",
+      "mam",
+      "mummy",
+      "child of, daughter of, is child of, is daughter of, is son of, parent, son of, has mother"
+    ]
+  },
+  "P26": {
+    "label": "spouse",
+    "description": "the subject has the object as their spouse (husband, wife, partner, etc.). Use \"unmarried partner\" (P451) for non-married companions",
+    "synonym": [
+      "spouse",
+      "spouses",
+      "married",
+      "husband",
+      "husbands",
+      "wife",
+      "wives",
+      "marriage partner, married, married to, marry, wed, wedded to"
+    ]
+  },
+  "P27": {
+    "label": "country of citizenship",
+    "description": "the object is a country that recognizes the subject as its citizen",
+    "synonym": [
+      "citizenship",
+      "birthplace",
+      "country",
+      "nationality",
+      "homeland",
+      "hometown",
+      "-----",
+      "nation",
+      "state",
+      "native",
+      "citizen of, national of, subject of (country)"
+    ]
+  },
+  "P31": {
+    "label": "instance of",
+    "description": "that class of which this subject is a particular example and member",
+    "synonym": [
+      "instance",
+      "is",
+      "sequel",
+      "title",
+      "equivalent",
+      "name",
+      "-----",
+      "namesake",
+      "definition",
+      "version",
+      "equivalent",
+      "counterpart",
+      "classification",
+      "type",
+      "class",
+      "form",
+      "kind",
+      "is a, distinct element of, distinct individual member of, distinct member of, is a particular, is a specific, is a unique, is an, is an individual, non-type member of, not a type but is instance of, occurrence of, rdf:type, uninstantiable instance of, unique individual of, unitary element of class, unsubclassable example of, unsubclassifiable member of, unsubtypable particular, â"
+    ]
+  },
+  "P39": {
+    "label": "position held",
+    "description": "subject currently or formerly holds the object position or public office",
+    "synonym": [
+      "position",
+      "office",
+      "title",
+      "job",
+      "role",
+      "rank"
+    ]
+  },
+  "P40": {
+    "label": "child",
+    "description": "subject has object as biological, foster, and/or adoptive child",
+    "synonym": [
+      "child",
+      "children",
+      "son",
+      "sons",
+      "daughter",
+      "daughters",
+      "kid",
+      "kids",
+      "descendant",
+      "offspring",
+      "progeny",
+      "successor",
+      "heir"
+    ]
+  },
+  "P57": {
+    "label": "director",
+    "description": "director(s) of film, TV-series, stageplay, video game or similar",
+    "synonym": [
+      "director",
+      "author",
+      "producer",
+      "creator",
+      "composer"
+    ]
+  },
+  "P58": {
+    "label": "screenwriter",
+    "description": "person(s) who wrote the script for subject item",
+    "synonym": [
+      "screenwriter",
+      "creator",
+      "author",
+      "writer",
+      "editor",
+      "composer",
+      "scriptwriter",
+      "written by, , film script by, screenplay by, teleplay by,  (of screenplays)"
+    ]
+  },
+  "P59": {
+    "label": "constellation",
+    "description": "the area of the celestial sphere of which the subject is a part (from a scientific standpoint, not an astrological one)",
+    "synonym": [
+      "constellation",
+      "star",
+      "planet",
+      "satellite",
+      "moon",
+      "namesake"
+    ]
+  },
+  "P84": {
+    "label": "architect",
+    "description": "person or architectural firm responsible for designing this building",
+    "synonym": [
+      "architect",
+      "founder",
+      "designer",
+      "builder",
+      "-----",
+      "creator",
+      "author",
+      "sculptor"
+    ]
+  },
+  "P86": {
+    "label": "composer",
+    "description": "person(s) who wrote the music [for lyricist, use \"lyrics by\" (P676)]",
+    "synonym": [
+      "composer",
+      "author",
+      "producer",
+      "creator",
+      "-----",
+      "writer",
+      "songwriter",
+      "lyricist",
+      "composed by, music by, musical score by, written by"
+    ]
+  },
+  "P101": {
+    "label": "field of work",
+    "description": "specialization of a person or organization; see P106 for the occupation",
+    "synonym": [
+      "speciality",
+      "studied",
+      "work",
+      "field",
+      "profession",
+      "subject",
+      "-----",
+      "domain",
+      "discipline",
+      "study",
+      "area",
+      "specialism",
+      "academic discipline, FOW, scientific discipline, field of study, academic area, academic subject, responsible for, scientific area, research on, conduct research about, be researcher in"
+    ]
+  },
+  "P102": {
+    "label": "member of political party",
+    "description": "the political party of which this politician is or has been a member",
+    "synonym": [
+      "party",
+      "joined",
+      "coalition",
+      "group",
+      "organization",
+      "member",
+      "political party, member of party, party membership"
+    ]
+  },
+  "P105": {
+    "label": "taxon rank",
+    "description": "level in a taxonomic hierarchy",
+    "synonym": [
+      "family",
+      "type",
+      "subfamily",
+      "classification",
+      "is",
+      "-----",
+      "name",
+      "namesake",
+      "domain",
+      "synonym",
+      "equivalent",
+      "rank",
+      "taxonomic rank, rank, type of taxon"
+    ]
+  },
+  "P106": {
+    "label": "occupation",
+    "description": "occupation of a person; see also \"field of work\" (Property:P101), \"position held\" (Property:P39)",
+    "synonym": [
+      "occupation",
+      "profession",
+      "specialty",
+      "career",
+      "job",
+      "work",
+      "title",
+      "role",
+      "position"
+    ]
+  },
+  "P118": {
+    "label": "league",
+    "description": "league in which team or player plays or has played in",
+    "synonym": [
+      "league",
+      "division",
+      "affiliate",
+      "affiliation",
+      "-----",
+      "organization",
+      "competition",
+      "season",
+      "championship",
+      "champion"
+    ]
+  },
+  "P123": {
+    "label": "publisher",
+    "description": "organization or person responsible for publishing books, periodicals, games or software",
+    "synonym": [
+      "publisher",
+      "publishers",
+      "owner",
+      "distributor",
+      "sponsor",
+      "producer",
+      "manufacturer",
+      "editor",
+      "publishing house, video game publisher, board game publisher, book publisher, software publisher, published by"
+    ]
+  },
+  "P127": {
+    "label": "owned by",
+    "description": "owner of the subject",
+    "synonym": [
+      "owner",
+      "owners",
+      "shareholder",
+      "parent",
+      "subsidiary",
+      "belongs to, is owned by"
+    ]
+  },
+  "P131": {
+    "label": "located in the administrative territorial entity",
+    "description": "the item is located on the territory of the following administrative entity. Use P276 (location) for specifying locations that are non-administrative places and for items about events",
+    "synonym": [
+      "home",
+      "location",
+      "seat",
+      "area",
+      "region",
+      "territory",
+      "site",
+      "address",
+      "administrative territorial entity, based in, happens in, in, in administrative unit, in the administrative unit, Indian reservation, is in administrative unit, is in the administrative region of, is in the administrative unit, is in the Indian reservation of, is in the Indian reserve of, is in the local government area of, is in the principal area of, is in the rural city of, is located in"
+    ]
+  },
+  "P135": {
+    "label": "movement",
+    "description": "literary, artistic, scientific or philosophical movement or scene associated with this person or work",
+    "synonym": [
+      "movement",
+      "style",
+      "work",
+      "term",
+      "genre",
+      "ideology",
+      "art"
+    ]
+  },
+  "P136": {
+    "label": "genre",
+    "description": "creative work's genre or an artist's field of work (P101). Use main subject (P921) to relate creative works to their topic",
+    "synonym": [
+      "genre",
+      "style",
+      "theme",
+      "format",
+      "trademark",
+      "music genre, literary genre, film genre, genre of music, type of music, artistic genre, kind of music, type of film"
+    ]
+  },
+  "P137": {
+    "label": "operator",
+    "description": "person, profession, or organization that operates the equipment, facility, or service; use country for diplomatic missions",
+    "synonym": [
+      "operator",
+      "user",
+      "administrator",
+      "developer",
+      "manufacturer",
+      "customer",
+      "managed by, operated by, service operator"
+    ]
+  },
+  "P140": {
+    "label": "religion",
+    "description": "religion of a person, organization or religious building, or associated with this subject",
+    "synonym": [
+      "religion",
+      "faith",
+      "belief",
+      "church",
+      "denomination",
+      "life stance, religious affiliation"
+    ]
+  },
+  "P150": {
+    "label": "contains administrative territorial entity",
+    "description": "(list of) direct subdivisions of an administrative territorial entity",
+    "synonym": [
+      "province",
+      "seat",
+      "area",
+      "region",
+      "territory",
+      "contains, divided into, divides into, has administrative divisions, has arrondissements, has boroughs, has cities, has counties, has districts, has local government areas, has municipalities, has regions, has rural cities, has shires, has states, has towns, has villages, has wards, subdivided into, has members, has countries"
+    ]
+  },
+  "P155": {
+    "label": "follows",
+    "description": "immediately prior item in a series of which the subject is a part [if the subject has replaced the preceding item, e.g. political offices, use \"replaces\" (P1365)]",
+    "synonym": [
+      "predecessor",
+      "successor",
+      "preceded by, succeeds, before was, comes after, prequel is, previous is, sequel of, split from, succeeds to, successor to"
+    ]
+  },
+  "P156": {
+    "label": "followed by",
+    "description": "immediately following item in a series of which the subject is a part [if the subject has been replaced, e.g. political offices, use \"replaced by\" (P1366)]",
+    "synonym": [
+      "predecessor",
+      "successor",
+      "comes before, next is, precedes, preceeds, prequel of, sequel is, succeded by, successor"
+    ]
+  },
+  "P159": {
+    "label": "headquarters location",
+    "description": "specific location where an organization's headquarters is or has been situated. Inverse property of \"occupant\" (P466).",
+    "synonym": [
+      "headquarters",
+      "home",
+      "base",
+      "location",
+      "seat",
+      "site",
+      "garrison, principle office"
+    ]
+  },
+  "P175": {
+    "label": "performer",
+    "description": "actor, musician, band or other performer associated with this role or musical work",
+    "synonym": [
+      "actor",
+      "artist",
+      "musician",
+      "singer",
+      "dancer",
+      "protagonist",
+      "vocalist",
+      "frontman",
+      "musical artist, played by, portrayed by, recorded by, recording by"
+    ]
+  },
+  "P176": {
+    "label": "manufacturer",
+    "description": "manufacturer or producer of this product",
+    "synonym": [
+      "manufacturer",
+      "maker",
+      "producer",
+      "builder",
+      "creator",
+      "developer",
+      "designer",
+      "inventor"
+    ]
+  },
+  "P177": {
+    "label": "crosses",
+    "description": "obstacle (body of water, road, ...) which this bridge crosses over or this tunnel goes under",
+    "synonym": [
+      "location",
+      "source",
+      "destination",
+      "alignment",
+      "channel",
+      "origin",
+      "side",
+      "address",
+      "site",
+      "spans, under, over, bridge over, spanning, through, tunnel under"
+    ]
+  },
+  "P178": {
+    "label": "developer",
+    "description": "organisation or person that developed the item",
+    "synonym": [
+      "developer",
+      "developers",
+      "creator",
+      "distributor",
+      "producer",
+      "developed by"
+    ]
+  },
+  "P206": {
+    "label": "located in or next to body of water",
+    "description": "sea, lake or river",
+    "synonym": [
+      "port",
+      "coastline",
+      "harbour",
+      "coast",
+      "sea",
+      "harbor",
+      "shoreline",
+      "bay",
+      "river",
+      "lake",
+      "location"
+    ]
+  },
+  "P241": {
+    "label": "military branch",
+    "description": "branch to which this military unit, award, office, or person belongs, e.g. Royal Navy",
+    "synonym": [
+      "formation",
+      "branch",
+      "service branch"
+    ]
+  },
+  "P264": {
+    "label": "record label",
+    "description": "brand and trademark associated with the marketing of subject music recordings and music videos",
+    "synonym": [
+      "label",
+      "imprint"
+    ]
+  },
+  "P276": {
+    "label": "location",
+    "description": "location of the item, physical object or event is within. In case of an administrative entity use P131. In case of a distinct terrain feature use P706.",
+    "synonym": [
+      "location",
+      "site",
+      "home",
+      "venue",
+      "neighborhood, venue, region, based in, in, is in, place held"
+    ]
+  },
+  "P306": {
+    "label": "operating system",
+    "description": "operating system (OS) on which a software works or the OS installed on hardware",
+    "synonym": [
+      "platform",
+      "OS",
+      "interface",
+      "client",
+      "port"
+    ]
+  },
+  "P355": {
+    "label": "subsidiary",
+    "description": "subsidiary of a company or organization, opposite of parent organization (P749)",
+    "synonym": [
+      "subsidiary",
+      "affiliate",
+      "parent",
+      "flagship",
+      "parent company of, owns"
+    ]
+  },
+  "P361": {
+    "label": "part of",
+    "description": "object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A). Inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670)).",
+    "synonym": [
+      "part",
+      "assembly",
+      "component",
+      "meronym",
+      "section",
+      "subassembly",
+      "subsystem",
+      "system",
+      "member",
+      "subgroup",
+      "contained within, merged into, merged with, within,"
+    ]
+  },
+  "P364": {
+    "label": "original language of film or TV show",
+    "description": "language in which a film or a performance work was originally created. Deprecated for written works; use P407 (\"language of work or name\") instead.",
+    "synonym": [
+      "language",
+      "languages",
+      "dialect",
+      "medium",
+      "accent",
+      "vernacular"
+    ]
+  },
+  "P400": {
+    "label": "platform",
+    "description": "platform for which a work was developed or released, or the specific platform version of a software product",
+    "synonym": [
+      "platforms",
+      "environment",
+      "hardware",
+      "runtime",
+      "engine",
+      "console",
+      "controller",
+      "published on"
+    ]
+  },
+  "P403": {
+    "label": "mouth of the watercourse",
+    "description": "the body of water to which the watercourse drains",
+    "synonym": [
+      "tributary",
+      "source",
+      "mouth",
+      "outlet",
+      "estuary",
+      "outflow",
+      "drain",
+      "channel",
+      "confluences",
+      "watershed",
+      "reservoir",
+      "tributaries",
+      "river mouth, watercourse drain, watercourse ends in, watercourse outflow"
+    ]
+  },
+  "P407": {
+    "label": "language of work or name",
+    "description": "language associated with this creative work (such as books, shows, songs, or websites) or a name (for persons use P103 and P1412)",
+    "synonym": [
+      "language",
+      "dialect",
+      "medium",
+      "translation"
+    ]
+  },
+  "P410": {
+    "label": "military rank",
+    "description": "military rank achieved by a person (should usually have a \"start time\" qualifier), or military rank associated with a position",
+    "synonym": [
+      "rank",
+      "title",
+      "position",
+      "grade"
+    ]
+  },
+  "P412": {
+    "label": "voice type",
+    "description": "person's voice type. expected values: soprano, mezzo-soprano, contralto, countertenor, tenor, baritone, bass (and derivatives)",
+    "synonym": [
+      "voice",
+      "style",
+      "type",
+      "register, range of voice, tessitura, type of voice, vocal type"
+    ]
+  },
+  "P413": {
+    "label": "position played on team / speciality",
+    "description": "position or specialism of a player on a team, e.g. Small Forward",
+    "synonym": [
+      "specialism",
+      "speciality",
+      "position",
+      "fielding position, position (on team)"
+    ]
+  },
+  "P449": {
+    "label": "original broadcaster",
+    "description": "network(s) or service(s) that originally broadcasted a radio or television program",
+    "synonym": [
+      "channel",
+      "broadcaster",
+      "network",
+      "website",
+      "radio station"
+    ]
+  },
+  "P460": {
+    "label": "said to be the same as",
+    "description": "this item is said to be the same as that item, but the statement is disputed",
+    "synonym": [
+      "equivalent",
+      "counterpart",
+      "close to, disputed equivalence, equivalent of, equivalent to, is said to be the same as, is the same as, possibly equivalent to, possibly the same as, said to be different from, same, same as, see also, similar to, the same as, conspecific with"
+    ]
+  },
+  "P463": {
+    "label": "member of",
+    "description": "organization, musical group, or club to which the subject belongs. Do not use for membership in ethnic or social groups, nor for holding a position such as a member of parliament (use P39 for that).",
+    "synonym": [
+      "member",
+      "membership",
+      "group",
+      "band",
+      "company",
+      "team",
+      "organization",
+      "family"
+    ]
+  },
+  "P466": {
+    "label": "occupant",
+    "description": "a person or organization occupying property",
+    "synonym": [
+      "tenant",
+      "tenants",
+      "landlord",
+      "inhabitant",
+      "resident",
+      "lessee",
+      "renter",
+      "houses",
+      "home",
+      "location of"
+    ]
+  },
+  "P495": {
+    "label": "country of origin",
+    "description": "country of origin of this item (creative work, food, phrase, product, etc.)",
+    "synonym": [
+      "country",
+      "origin",
+      "home",
+      "homeland",
+      "hometown",
+      "comes from, CoO"
+    ]
+  },
+  "P527": {
+    "label": "has part",
+    "description": "part of this subject; inverse property of \"part of\" (P361). See also \"has parts of the class\" (P2670).",
+    "synonym": [
+      "member",
+      "comprised of, contains, formed from, formed out of, ingredients, amalgamation of, assembled from, assembled out of, composed of, consists of, contain, created from, created out of, has as part, has component, has ingredient, has ingredients, have part, holonym of, includes, includes part, parts, set of, has member"
+    ]
+  },
+  "P551": {
+    "label": "residence",
+    "description": "the place where the person is or has been, resident",
+    "synonym": [
+      "residence",
+      "home",
+      "hometown",
+      "homeland",
+      "town",
+      "lives in, lived in"
+    ]
+  },
+  "P641": {
+    "label": "sport",
+    "description": "sport in which the subject participates or belongs to",
+    "synonym": [
+      "sport",
+      "sports",
+      "hobby",
+      "interest",
+      "game",
+      "career",
+      "play, sport played"
+    ]
+  },
+  "P674": {
+    "label": "characters",
+    "description": "characters which appear in this item (like plays, operas, operettas, books, comics, films, TV series, video games)",
+    "synonym": [
+      "character",
+      "protagonist",
+      "hero",
+      "antagonist",
+      "villain",
+      "nan"
+    ]
+  },
+  "P706": {
+    "label": "located on terrain feature",
+    "description": "located on the specified landform. Should not be used when the value is only political/administrative (P131) or a mountain range (P4552).",
+    "synonym": [
+      "location",
+      "origin",
+      "site",
+      "area",
+      "island",
+      "neighbour",
+      "region",
+      "territory",
+      "geographical region, is on, terrain feature, on, is in, takes place in, on geographical feature, on natural feature"
+    ]
+  },
+  "P710": {
+    "label": "participant",
+    "description": "person, group of people or organization (object) that actively takes/took part in an event or process (subject). Preferably qualify with \"object has role\" (P3831). Use P1923 for participants that are teams.",
+    "synonym": [
+      "participant",
+      "host",
+      "presenter",
+      "agent, accused, party, attendee, belligerents, between, candidate, competitor, event participant, participants, perpetrator, player, suspect, victim"
+    ]
+  },
+  "P740": {
+    "label": "location of formation",
+    "description": "location where a group or organization was formed",
+    "synonym": [
+      "location",
+      "home",
+      "hometown",
+      "base",
+      "seat",
+      "origin",
+      "comes from, formation location, formed in, founded in, from, originates from, place of formation, place of foundation, place of incorporation, source location of group/organisation"
+    ]
+  },
+  "P750": {
+    "label": "distributor",
+    "description": "distributor of a creative work; distributor for a record label",
+    "synonym": [
+      "distributor",
+      "publisher",
+      "producer",
+      "sponsor",
+      "creator",
+      "distributed by"
+    ]
+  },
+  "P800": {
+    "label": "notable work",
+    "description": "notable scientific, artistic or literary work, or other work of significance among subject's works",
+    "synonym": [
+      "work",
+      "masterpiece",
+      "creation",
+      "autobiography",
+      "book",
+      "novel",
+      "artwork, bibliography, famous books, famous for, known for, notable books, significance, creator of"
+    ]
+  },
+  "P921": {
+    "label": "main subject",
+    "description": "primary topic of a work (see also P180: depicts)",
+    "synonym": [
+      "subject",
+      "theme",
+      "focus",
+      "topic",
+      "title",
+      "sitter, keyword, about, index term, describes, is about, main issue, main thing, mainly about, mentions, refers to"
+    ]
+  },
+  "P931": {
+    "label": "place served by transport hub",
+    "description": "territorial entity or entities served by this transport hub (airport, train station, etc.)",
+    "synonym": [
+      "location",
+      "hub",
+      "airport",
+      "terminal",
+      "site",
+      "seat",
+      "address",
+      "city served, serves city, train station serves"
+    ]
+  },
+  "P937": {
+    "label": "work location",
+    "description": "location where persons were active",
+    "synonym": [
+      "location of work, place of work, work location, workplace, active in, place of activity, working at, work place"
+    ]
+  },
+  "P974": {
+    "label": "tributary",
+    "description": "stream or river that flows into a larger river or lake",
+    "synonym": [
+      "tributary",
+      "tributaries",
+      "source",
+      "origin",
+      "mouth",
+      "outlet",
+      "estuary",
+      "affluent",
+      "confluence",
+      "channel",
+      "watershed",
+      "has inflow of, has river inflow, receives river, "
+    ]
+  },
+  "P991": {
+    "label": "successful candidate",
+    "description": "person(s) elected after the election",
+    "synonym": [
+      "winner",
+      "candidate",
+      "incumbent",
+      "champion",
+      "nominee",
+      "elected person, winner of election"
+    ]
+  },
+  "P1001": {
+    "label": "applies to jurisdiction",
+    "description": "the item (an institution, law, public office ...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...)",
+    "synonym": [
+      "jurisdiction",
+      "applied to jurisdiction, applies to territorial jurisdiction, belongs to jurisdiction, country of jurisdiction, linked to jurisdiction, of jurisdiction, valid in jurisdiction"
+    ]
+  },
+  "P1303": {
+    "label": "instrument",
+    "description": "musical instrument that a person plays",
+    "synonym": [
+      "instrument",
+      "specialty",
+      "profession",
+      "musical instrument, instrument played, plays, plays instrument"
+    ]
+  },
+  "P1344": {
+    "label": "participant of",
+    "description": "event a person or an organization was/is a participant in, inverse of P710 or P1923",
+    "synonym": [
+      "participant",
+      "competed in, competes in, participant in, participant of event, participated in, present at, takes part, took part, took part in"
+    ]
+  },
+  "P1346": {
+    "label": "winner",
+    "description": "winner of an event - do not use for awards (use P166/P2453 instead), nor for wars or battles",
+    "synonym": [
+      "winner",
+      "champion",
+      "MVP",
+      "recipient",
+      "winners",
+      "champions",
+      "leader, 1st place medalist, champ, champion, prizewinner, titleholder, top dog, victor, winners, won by, nominee, awardee"
+    ]
+  },
+  "P1408": {
+    "label": "licensed to broadcast to",
+    "description": "place that a radio/TV station is licensed/required to broadcast to",
+    "synonym": [
+      "transmitter",
+      "base",
+      "location",
+      "hub",
+      "studio",
+      "address",
+      "tower",
+      "site",
+      "city of license, community of license"
+    ]
+  },
+  "P1411": {
+    "label": "nominated for",
+    "description": "award nomination received by a person, organisation or creative work (inspired from \"award received\" (Property:P166))",
+    "synonym": [
+      "nomination",
+      "nominee",
+      "award",
+      "title",
+      "win",
+      "winner",
+      "honor",
+      "achievement",
+      "nomination received, nominee for"
+    ]
+  },
+  "P1435": {
+    "label": "heritage designation",
+    "description": "heritage designation of a cultural or natural site",
+    "synonym": [
+      "site",
+      "listing",
+      "NRHP",
+      "register",
+      "designation",
+      "location",
+      "list",
+      "protection, heritage status, legal protection, protected status"
+    ]
+  },
+  "P1877": {
+    "label": "after a work by",
+    "description": "artist whose work strongly inspired/ was copied in this item",
+    "synonym": [
+      "author",
+      "creator",
+      "writer",
+      "editor",
+      "producer",
+      "composer",
+      "artist who inspired this, copy of a work by, inspirational artist, inspiring artist"
+    ]
+  },
+  "P1923": {
+    "label": "participating team",
+    "description": "Like 'Participant' (P710) but for teams. For an event like a cycle race or a football match you can use this property to list the teams and P710 to list the individuals (with 'member of sports team' (P54) as a qualifier for the individuals)",
+    "synonym": [
+      "participant",
+      "team",
+      "teams"
+    ]
+  },
+  "P2094": {
+    "label": "competition class",
+    "description": "official classification by a regulating body under which the subject (events, teams, participants, or equipment) qualifies for inclusion",
+    "synonym": [
+      "title",
+      "style",
+      "division",
+      "classification",
+      "class",
+      "category",
+      "weight",
+      "weight class, class for competition, compclass, disability sport classifications, qualification class, qualifies for, rated at"
+    ]
+  },
+  "P3373": {
+    "label": "sibling",
+    "description": "the subject has the object as their sibling (brother, sister, etc.). Use \"relative\" (P1038) for siblings-in-law (brother-in-law, sister-in-law, etc.) and step-siblings (step-brothers, step-sisters, etc.)",
+    "synonym": [
+      "cousin",
+      "brother",
+      "sister",
+      "twin",
+      "sib, bro, sis"
+    ]
+  },
+  "P3450": {
+    "label": "sports season of league or competition",
+    "description": "property that shows the competition of which the item is a season. Use P5138 for \"season of club or team\".",
+    "synonym": [
+      "season",
+      "competition",
+      "tournament",
+      "league"
+    ]
+  },
+  "P4552": {
+    "label": "mountain range",
+    "description": "range or subrange to which the geographical item belongs",
+    "synonym": [
+      "range",
+      "peak",
+      "foothills",
+      "valley",
+      "continuation",
+      "mountain system, mountain belt, system of mountains"
+    ]
+  }
+}
